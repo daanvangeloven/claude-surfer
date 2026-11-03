@@ -1,0 +1,1 @@
+{ "name": "claude-surfer", "version": "0.2.0", "description": "Claude plays an ASCII subway-surfer in a pane while a long turn runs", "types": "./types/index.d.ts" }

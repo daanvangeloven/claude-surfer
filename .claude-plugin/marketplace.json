@@ -1,0 +1,11 @@
+{
+  "name": "claude-surfer",
+  "owner": { "name": "Daan van Geloven" },
+  "plugins": [
+    {
+      "name": "claude-surfer",
+      "source": "./",
+      "description": "Claude plays an ASCII subway-surfer in a pane while a long turn runs"
+    }
+  ]
+}
